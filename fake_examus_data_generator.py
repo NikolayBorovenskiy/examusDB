@@ -26,12 +26,12 @@ COURSES = [
     'course-v1:PR+CME01+2018-1',
 ]
 
-USERS = list(range(1, 11))
+USERS = list(range(1, 5))
 
 
 def create_course_structure():
     courses = list()
-    for course_id in COURSES:
+    for course_id in COURSES[:5]:
         course = dict()
         course['id'] = course_id
         course['sections'] = list()
@@ -115,14 +115,14 @@ def main():
     links_data = dict(links=links)
     visits = []
     for link in links:
-        visits.append(dict(id=link['id'] + 1, visits=list(generate_visits(random.randint(4, 18)))))
+        visits.append(dict(id=link['id'] + 1, visits=list(generate_visits(random.randint(4, 6)))))
     visits_data = dict(visits=visits)
 
     engagements = []
     for visit in visits:
         for i in visit['visits']:
             engagements.append(
-                dict(id=i['visit_id'], engagements=list(generate_engagement_data(random.randint(4, 19))))
+                dict(id=i['visit_id'], engagements=list(generate_engagement_data(random.randint(4, 6))))
             )
 
     engagement_data = dict(engagements=engagements)
