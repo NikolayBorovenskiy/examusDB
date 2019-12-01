@@ -39,6 +39,166 @@
         {
             "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 2: Theoretician\", \"s\": \"rosy\", \"u\": 4}",
             "id": 10
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 5: Divination\", \"s\": \"prorate\", \"u\": 2}",
+            "id": 11
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 3: Schizomycetes\", \"s\": \"venal\", \"u\": 2}",
+            "id": 12
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 5: Divination\", \"s\": \"barony\", \"u\": 6}",
+            "id": 13
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 4: Kelp\", \"s\": \"acetic\", \"u\": 7}",
+            "id": 14
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 2: Bella\", \"s\": \"Ilyushin\", \"u\": 4}",
+            "id": 15
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 1: Judas\", \"s\": \"Genevieve\", \"u\": 4}",
+            "id": 16
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 1: Judas\", \"s\": \"widgeon\", \"u\": 1}",
+            "id": 17
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 1: Judas\", \"s\": \"Genevieve\", \"u\": 1}",
+            "id": 18
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 6: Subterranean\", \"s\": \"fain\", \"u\": 2}",
+            "id": 19
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 1: Judas\", \"s\": \"speedup\", \"u\": 5}",
+            "id": 20
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 4: Sarong\", \"s\": \"omnivorous\", \"u\": 1}",
+            "id": 21
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 1: Stenographer\", \"s\": \"misnomer\", \"u\": 4}",
+            "id": 22
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 6: Paleoanthropology\", \"s\": \"procession\", \"u\": 1}",
+            "id": 23
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 5: Craze\", \"s\": \"NOAA\", \"u\": 3}",
+            "id": 24
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 5: Craze\", \"s\": \"response\", \"u\": 4}",
+            "id": 25
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 1: Stenographer\", \"s\": \"Salem\", \"u\": 3}",
+            "id": 26
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 5: Craze\", \"s\": \"NOAA\", \"u\": 1}",
+            "id": 27
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 3: Hatchery\", \"s\": \"crampon\", \"u\": 3}",
+            "id": 28
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 2: Delineate\", \"s\": \"polygon\", \"u\": 4}",
+            "id": 29
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 5: Craze\", \"s\": \"situate\", \"u\": 1}",
+            "id": 30
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BBDT02+2017-1\", \"c\": \"Week 5: Particular\", \"s\": \"salmonberry\", \"u\": 4}",
+            "id": 31
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BBDT02+2017-1\", \"c\": \"Week 5: Particular\", \"s\": \"watercourse\", \"u\": 5}",
+            "id": 32
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BBDT02+2017-1\", \"c\": \"Week 3: Personify\", \"s\": \"sextuple\", \"u\": 4}",
+            "id": 33
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BBDT02+2017-1\", \"c\": \"Week 1: Beat\", \"s\": \"dither\", \"u\": 2}",
+            "id": 34
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BBDT02+2017-1\", \"c\": \"Week 5: Particular\", \"s\": \"watercourse\", \"u\": 3}",
+            "id": 35
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BBDT02+2017-1\", \"c\": \"Week 2: Debut\", \"s\": \"felony\", \"u\": 1}",
+            "id": 36
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BBDT02+2017-1\", \"c\": \"Week 1: Beat\", \"s\": \"dither\", \"u\": 5}",
+            "id": 37
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BBDT02+2017-1\", \"c\": \"Week 2: Debut\", \"s\": \"electrify\", \"u\": 4}",
+            "id": 38
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BBDT02+2017-1\", \"c\": \"Week 3: Personify\", \"s\": \"sextuple\", \"u\": 4}",
+            "id": 39
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+BBDT02+2017-1\", \"c\": \"Week 5: Particular\", \"s\": \"cage\", \"u\": 4}",
+            "id": 40
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+CME01+2017-1\", \"c\": \"Week 4: Scram\", \"s\": \"ringside\", \"u\": 4}",
+            "id": 41
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+CME01+2017-1\", \"c\": \"Week 2: Albacore\", \"s\": \"plaintiff\", \"u\": 1}",
+            "id": 42
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+CME01+2017-1\", \"c\": \"Week 3: Mississippian\", \"s\": \"vigilante\", \"u\": 3}",
+            "id": 43
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+CME01+2017-1\", \"c\": \"Week 1: Diplomacy\", \"s\": \"monotreme\", \"u\": 3}",
+            "id": 44
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+CME01+2017-1\", \"c\": \"Week 5: Import\", \"s\": \"umpire\", \"u\": 3}",
+            "id": 45
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+CME01+2017-1\", \"c\": \"Week 5: Import\", \"s\": \"resurgent\", \"u\": 5}",
+            "id": 46
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+CME01+2017-1\", \"c\": \"Week 2: Albacore\", \"s\": \"uttermost\", \"u\": 3}",
+            "id": 47
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+CME01+2017-1\", \"c\": \"Week 3: Mississippian\", \"s\": \"reciprocate\", \"u\": 3}",
+            "id": 48
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+CME01+2017-1\", \"c\": \"Week 3: Mississippian\", \"s\": \"Eros\", \"u\": 1}",
+            "id": 49
+        },
+        {
+            "link_id": "{\"cid\": \"course-v1:ASU+CME01+2017-1\", \"c\": \"Week 3: Mississippian\", \"s\": \"compost\", \"u\": 4}",
+            "id": 50
         }
     ]
 }
