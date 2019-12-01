@@ -26,12 +26,12 @@ COURSES = [
     'course-v1:PR+CME01+2018-1',
 ]
 
-USERS = list(range(1, 5))
+USERS = list(range(1, 4))
 
 
 def create_course_structure():
     courses = list()
-    for course_id in COURSES[:5]:
+    for course_id in COURSES[:3]:
         course = dict()
         course['id'] = course_id
         course['sections'] = list()
