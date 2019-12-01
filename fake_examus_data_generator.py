@@ -128,7 +128,7 @@ def main():
     engagement_data = dict(engagements=engagements)
 
     with open('db.json', 'w', encoding='utf-8') as f:
-        # links_data.update(visits_data)
+        links_data.update(visits_data)
         # links_data.update(engagement_data)
         json.dump(links_data, f, ensure_ascii=False, indent=4)
 

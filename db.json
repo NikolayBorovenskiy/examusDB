@@ -1,124 +1,723 @@
 {
     "links": [
         {
-            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 3: Hobby\", \"s\": \"Serpens\", \"u\": 1}",
+            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 5: Gym\", \"s\": \"label\", \"u\": 6}",
             "id": 1
         },
         {
-            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 3: Hobby\", \"s\": \"Serpens\", \"u\": 1}",
+            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 1: Hotbox\", \"s\": \"an\", \"u\": 5}",
             "id": 2
         },
         {
-            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 2: Tripe\", \"s\": \"Sudanese\", \"u\": 6}",
+            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 3: Portage\", \"s\": \"penman\", \"u\": 2}",
             "id": 3
         },
         {
-            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 1: Slap\", \"s\": \"abrupt\", \"u\": 6}",
+            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 1: Hotbox\", \"s\": \"an\", \"u\": 2}",
             "id": 4
         },
         {
-            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 1: Slap\", \"s\": \"abrupt\", \"u\": 3}",
+            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 5: Gym\", \"s\": \"Whitehorse\", \"u\": 2}",
             "id": 5
         },
         {
-            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 4: Mesozoic\", \"s\": \"discomfit\", \"u\": 4}",
+            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 1: Hotbox\", \"s\": \"bogeymen\", \"u\": 2}",
             "id": 6
         },
         {
-            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 1: Slap\", \"s\": \"rectilinear\", \"u\": 1}",
+            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 1: Hotbox\", \"s\": \"bogeymen\", \"u\": 5}",
             "id": 7
         },
         {
-            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 2: Tripe\", \"s\": \"gentry\", \"u\": 2}",
+            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 7: Moscow\", \"s\": \"pop\", \"u\": 1}",
             "id": 8
         },
         {
-            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 3: Hobby\", \"s\": \"Rico\", \"u\": 2}",
+            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 2: Deploy\", \"s\": \"matte\", \"u\": 1}",
             "id": 9
         },
         {
-            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 4: Mesozoic\", \"s\": \"urchin\", \"u\": 5}",
+            "link_id": "{\"cid\": \"course-v1:Appsembler+001+2017\", \"c\": \"Week 1: Hotbox\", \"s\": \"an\", \"u\": 1}",
             "id": 10
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 3: Extolling\", \"s\": \"adverbial\", \"u\": 3}",
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 2: Ginger\", \"s\": \"transalpine\", \"u\": 2}",
             "id": 11
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 2: Picayune\", \"s\": \"punctuate\", \"u\": 3}",
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 6: Patrilineal\", \"s\": \"intransigent\", \"u\": 2}",
             "id": 12
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 5: Kingston\", \"s\": \"statue\", \"u\": 1}",
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 6: Patrilineal\", \"s\": \"smart\", \"u\": 4}",
             "id": 13
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 3: Extolling\", \"s\": \"adverbial\", \"u\": 2}",
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 6: Patrilineal\", \"s\": \"intransigent\", \"u\": 6}",
             "id": 14
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 6: Diabase\", \"s\": \"classmate\", \"u\": 2}",
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 2: Ginger\", \"s\": \"cycad\", \"u\": 2}",
             "id": 15
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 2: Picayune\", \"s\": \"tung\", \"u\": 1}",
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 6: Patrilineal\", \"s\": \"smart\", \"u\": 3}",
             "id": 16
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 3: Extolling\", \"s\": \"skimpy\", \"u\": 2}",
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 4: Dayton\", \"s\": \"sherry\", \"u\": 2}",
             "id": 17
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 3: Extolling\", \"s\": \"parboil\", \"u\": 6}",
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 6: Patrilineal\", \"s\": \"victrola\", \"u\": 1}",
             "id": 18
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 3: Extolling\", \"s\": \"parboil\", \"u\": 5}",
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 6: Patrilineal\", \"s\": \"intransigent\", \"u\": 5}",
             "id": 19
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 4: Bourbaki\", \"s\": \"couplet\", \"u\": 6}",
+            "link_id": "{\"cid\": \"course-v1:ASU+ASUxx+2017-1\", \"c\": \"Week 3: Rite\", \"s\": \"octahedra\", \"u\": 5}",
             "id": 20
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 6: Prize\", \"s\": \"bitternut\", \"u\": 2}",
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 1: S\", \"s\": \"ignominy\", \"u\": 4}",
             "id": 21
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 2: Runge\", \"s\": \"hypocrisy\", \"u\": 6}",
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 3: Colza\", \"s\": \"shiny\", \"u\": 2}",
             "id": 22
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 5: Girt\", \"s\": \"dry\", \"u\": 4}",
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 5: Trounce\", \"s\": \"Ohio\", \"u\": 2}",
             "id": 23
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 5: Girt\", \"s\": \"count\", \"u\": 1}",
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 4: Bitwise\", \"s\": \"bonus\", \"u\": 3}",
             "id": 24
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 7: Sunshine\", \"s\": \"equatorial\", \"u\": 4}",
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 1: S\", \"s\": \"ignominy\", \"u\": 2}",
             "id": 25
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 6: Prize\", \"s\": \"bitternut\", \"u\": 2}",
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 5: Trounce\", \"s\": \"hypothalamic\", \"u\": 5}",
             "id": 26
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 2: Runge\", \"s\": \"tan\", \"u\": 1}",
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 4: Bitwise\", \"s\": \"bonus\", \"u\": 4}",
             "id": 27
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 5: Girt\", \"s\": \"dry\", \"u\": 2}",
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 5: Trounce\", \"s\": \"martingale\", \"u\": 3}",
             "id": 28
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 3: Transconductance\", \"s\": \"hullabaloo\", \"u\": 4}",
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 6: Assent\", \"s\": \"janitor\", \"u\": 6}",
             "id": 29
         },
         {
-            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 5: Girt\", \"s\": \"dry\", \"u\": 2}",
+            "link_id": "{\"cid\": \"course-v1:ASU+BB01+2017-1\", \"c\": \"Week 3: Colza\", \"s\": \"Magruder\", \"u\": 7}",
             "id": 30
+        }
+    ],
+    "visits": [
+        {
+            "id": 2,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=1"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=2"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234395&user_id=2"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=2"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=1"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=3"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=2"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=2"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234395&user_id=1"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=1"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=1"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=2"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234395&user_id=3"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=1"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234395&user_id=2"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=2"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234395&user_id=2"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=1"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=3"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=1"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=2"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=1"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=1"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=3"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234395&user_id=1"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234395&user_id=2"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=3"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=1"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "visits": [
+                {
+                    "visit_id": "timestamp=1575234345&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234355&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234365&user_id=1"
+                },
+                {
+                    "visit_id": "timestamp=1575234375&user_id=2"
+                },
+                {
+                    "visit_id": "timestamp=1575234385&user_id=1"
+                }
+            ]
         }
     ]
 }
